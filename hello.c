@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main() {
- printf("hello-divide, compiler !\n");
+ printf("hello-divide-sub, compiler !\n");
  return 0;
 }
 
